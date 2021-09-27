@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-About me:
+**About me:**
 
 - 📡 Networks, large-scale platforms and distributed systems.
 - ⚙ Constraint Programming and Optimization.
